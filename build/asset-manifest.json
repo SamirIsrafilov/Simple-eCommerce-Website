@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5f45683.css",
+    "main.js": "/static/js/main.0b75cbc2.js",
+    "static/media/blog_02.jpg": "/static/media/blog_02.7f30ea0023fdb8acc803.jpg",
+    "static/media/blog_03.jpg": "/static/media/blog_03.26f826419d7811f981cd.jpg",
+    "static/media/blog_01.jpg": "/static/media/blog_01.48d266428c42e7fc2bcf.jpg",
+    "static/media/blog_04.jpg": "/static/media/blog_04.9948fe575cf49ad65db2.jpg",
+    "static/media/banner_img.jpeg": "/static/media/banner_img.746916487d1f1fbd8dbc.jpeg",
+    "static/media/wooden_table.jpg": "/static/media/wooden_table.fa3707b0868c3ff71f6f.jpg",
+    "static/media/fluffy_chair.jpg": "/static/media/fluffy_chair.19282991342d342b49e1.jpg",
+    "static/media/feature_img.jpg": "/static/media/feature_img.7224b7a94542dbb98dda.jpg",
+    "static/media/multiple_lights.jpg": "/static/media/multiple_lights.77696478faa03b8dd02a.jpg",
+    "static/media/crazy_table.jpg": "/static/media/crazy_table.80b14f3afda537f20557.jpg",
+    "static/media/amazing_light.jpg": "/static/media/amazing_light.e2e9e945d39c7af7776a.jpg",
+    "static/media/wooden_chair.jpg": "/static/media/wooden_chair.142a4b5a71ce6ef4d6cd.jpg",
+    "static/media/lamp.jpg": "/static/media/lamp.d8bb9aeb2bae7a1376db.jpg",
+    "static/media/office_table.avif": "/static/media/office_table.470a521a78c015341fa0.avif",
+    "static/media/cool_light.jpg": "/static/media/cool_light.054753014bd7ee7a03ee.jpg",
+    "static/media/cool_chair.jpg": "/static/media/cool_chair.8a5a89efe7dc83f42c4f.jpg",
+    "static/media/plastic_chair.jpg": "/static/media/plastic_chair.f34fa596d564d08cf829.jpg",
+    "static/media/lights_table.avif": "/static/media/lights_table.c2b509e99b60758f0cb6.avif",
+    "index.html": "/index.html",
+    "main.b5f45683.css.map": "/static/css/main.b5f45683.css.map",
+    "main.0b75cbc2.js.map": "/static/js/main.0b75cbc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f45683.css",
+    "static/js/main.0b75cbc2.js"
+  ]
+}

@@ -1,0 +1,60 @@
+@import 'nav';
+@import 'home';
+@import 'footer';
+@import 'shopall';
+@import 'blog';
+@import 'contact';
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+// @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+// Preloader
+
+.loader-container {
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+
+
+    .loader {
+        border: 16px solid #fff;
+        border-top: 16px solid #000;
+        border-radius: 50%;
+        width: 130px;
+        height: 130px;
+        animation: spin 1.3s linear infinite;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .load{
+            border: 16px solid #fff;
+            border-top: 16px solid #606060;
+            border-radius: 50%;
+            width: 90px;
+            height: 90px;
+            animation: spin 1s linear infinite;
+        }
+
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
